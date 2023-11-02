@@ -1,8 +1,8 @@
 
 <?php
-$link= "mysql:host=127.0.0.1;dbname=prueba_tecnica";
+$link= "mysql:host=localhost;dbname=prueba_tecnica";
 $username = "root";
-$password = "zetsu611212";
+$password = "";
 
 try {
   $pdo = new PDO($link, $username, $password);
