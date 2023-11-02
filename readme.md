@@ -14,6 +14,8 @@ Antes de comenzar, necesita declarar:
 - `username` de su base de datos en "root".
 - `password` de su base de datos en "".
 
+Y una vez creada la base de datos importar el archivo prueba_tecnica.sql
+
 
 Antes de comenzar, asegúrate de tener MySQL instalado en tu sistema y acceso para crear una base de datos. Puedes instalar MySQL desde el [sitio web oficial de MySQL](https://dev.mysql.com/downloads/mysql/).
 
